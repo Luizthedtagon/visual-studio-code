@@ -2,15 +2,23 @@
 
 using System;
 
-class Arrays
+class funcoes
 {
 
-    class void main (string[] args){
+    public void main (string[] args){
         
         public void calcularAreaR()
       int baseR = 5;
       int alturaR = 10;
       int areaR = baseR * alturaR;
-      Console.WriteLine(area);
+      Console.WriteLine(areaR);
     }
+    static void Main (string[] args)
+
+    funcoes meuObj = new funcoes();
+
+    meuObj calcularAreaR();
+
 }
+
+// cria uma função que recebe seu nome, sua idade e sua altura e imprime no terminal   

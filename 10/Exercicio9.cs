@@ -1,6 +1,6 @@
 using System;
 
-class Loops
+class Exercicio9
 {
     
     static void Main (string[] args){

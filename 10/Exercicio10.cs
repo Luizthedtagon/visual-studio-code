@@ -1,6 +1,6 @@
 using System;
 
-class Arrays
+class Exercicio10
 {
 
     class void main (string[] args){
